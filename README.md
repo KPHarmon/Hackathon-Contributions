@@ -7,7 +7,7 @@ Collection of contributions to projects at various Hackathons
   <li>Backend Design</li>
 </ul>
 
-<h3>Hack 4 Humanity 2018</h3>
+<h3>Hack For Humanity 2018</h3>
 <h4><a href="https://github.com/MattMistele/natural-disaster-worldmap-hackathon">Repository</a></h4>
 <ul>
   <li>Front End UI Design</li>
@@ -19,4 +19,10 @@ Collection of contributions to projects at various Hackathons
 <ul>
   <li>Backend Design</li>
   <li>Business Modeling</li>
+</ul>
+
+<h3>Hack For Humanity 2019</h3>
+<h4><a href="https://github.com/h4h-2019-fairness">Repository</a></h4>
+<ul>
+  <li>Chrome Extension</li>
 </ul>
